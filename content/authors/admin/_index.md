@@ -1,7 +1,7 @@
 ---
 # Display name
-#title: Shuyi Jin
-title: 金书易
+title: Shuyi Jin
+#title: 金书易
 
 # Name pronunciation (optional)
 #name_pronunciation: 金书易
