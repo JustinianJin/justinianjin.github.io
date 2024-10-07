@@ -3,15 +3,15 @@
 title: Shuyi Jin
 
 # Name pronunciation (optional)
-name_pronunciation: 金 书易
+name_pronunciation: 金书易
 
 # Full name (for SEO)
 first_name: Shuyi
 last_name: Jin
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
