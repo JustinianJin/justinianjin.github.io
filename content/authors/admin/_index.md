@@ -28,62 +28,52 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Quantitative History
+#  - Digital Humanities
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      : Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Academic Pursuits
     items:
-      - name: Python
+      - name: Historical Analysis
         description: ''
         percent: 80
-        icon: python
+        icon: history
         icon_pack: fab
-      - name: Data Science
+      - name: Mathematical Modeling
         description: ''
         percent: 100
-        icon: chart-line
+        icon: math
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: American pool
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: pool
+        icon_pack: fas
+      - name: Catsculinary Arts
+        description: ''
+        percent: 70
+        icon: cooking
         icon_pack: fas
 
 # Social/Academic Networking
@@ -120,5 +110,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shuyi Jin is a student at Shanghai Pinghe Bilingual School, set to pursue higher education in the U.S. or Canada in 2025. He stands out with his innovative approach to quantitative history and digital humanities, where he explores the intersection of history and data. He runs a popular WeChat account on digital humanities, bringing fresh ideas to academic discussions. At 15, shuyi invented a smart walnut device to assist Alzheimer's patients, reflecting his passion for technology and social impact. His intellectual curiosity and practical problem-solving skills have allowed him to make meaningful contributions, and he looks forward to applying these qualities as he pursues higher education at a top university.
+
 {style="text-align: justify;"}
