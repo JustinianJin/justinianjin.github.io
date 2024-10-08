@@ -53,13 +53,13 @@ skills:
       - name: Historical Analysis
         description: ''
         percent: 80
-        icon: history
-        icon_pack: fab
+      #  icon: history
+      #  icon_pack: fab
       - name: Mathematical Modeling
         description: ''
-        percent: 100
-        icon: math
-        icon_pack: fas
+        percent: 70
+      #  icon: math
+      #  icon_pack: fas
 
   - name: Hobbies
     color: '#eeac02'
@@ -68,13 +68,13 @@ skills:
       - name: American pool
         description: ''
         percent: 80
-        icon: pool
-        icon_pack: fas
+      #  icon: pool
+      #  icon_pack: fas
       - name: Catsculinary Arts
         description: ''
         percent: 70
-        icon: cooking
-        icon_pack: fas
+      #  icon: cooking
+      #  icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
