@@ -1,8 +1,8 @@
 ---
 title: "Quantitative History Analysis"
 summary: "Media Polarization in Weimar Germany: A Comparative Data Analysis of Mainstream Newspapers during the Mid-Weimar Period"
-tags:
-  - Large Language Model
+#tags:
+#  - Large Language Model
 date: '2024-10-15'
 
 # Optional external URL for project (replaces project detail page).
