@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://www.jinshuyi.xyz
-url_pdf: publication/preprint/summer_school_paper.pdf
+# url_pdf: publication/preprint/summer_school_paper.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -74,6 +74,6 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://www.jinshuyi.xyz
-url_pdf: publication/paper-2/history_essay_plutarch.pdf
+url_pdf: essay/paper-2/history_essay_plutarch.pdf
 
 ---

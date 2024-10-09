@@ -29,7 +29,7 @@ featured: false
 links:
 # - name: Custom Link
 #  url: http://www.jinshuyi.xyz
-url_pdf: publication/paper-1/summer_school_paper.pdf
+url_pdf: essay/paper-1/summer_school_paper.pdf
 ---
 
 
