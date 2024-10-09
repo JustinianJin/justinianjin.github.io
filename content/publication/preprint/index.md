@@ -1,5 +1,5 @@
 ---
-title: "Evolution of State Purpose / working paper"
+title: "Evolution of State Purpose / Final paper for summer school"
 authors:
 - admin
 date: "2023-08-10"
@@ -27,9 +27,9 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://www.jinshuyi.xyz
-url_pdf: assets/pdf/summer_school_paper.pdf
+# - name: Custom Link
+#  url: http://www.jinshuyi.xyz
+url_pdf: summer_school_paper.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
