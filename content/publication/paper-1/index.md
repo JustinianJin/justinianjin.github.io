@@ -3,7 +3,7 @@ title: "Evolution of State Purpose / Final paper for summer school"
 authors:
 - admin
 date: "2023-08-10"
-doi: ""
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -30,49 +30,6 @@ links:
 # - name: Custom Link
 #  url: http://www.jinshuyi.xyz
 url_pdf: publication/preprint/summer_school_paper.pdf
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-#  focal_point: ""
-#  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-#projects:
-#- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-#slides: example
-
-title: "The Roman Republic through the Lens of Plutarch's Political Philosophy: Imbalance, Collapse, and Legacy of Order / in Chinese"
-authors:
-- admin
-date: "2023-08-20"
-# doi: ""
-
-#tags:
-#- Source Themes
-featured: false
-
-links:
-# - name: Custom Link
-#  url: http://www.jinshuyi.xyz
-url_pdf: publication/preprint/history_essay_plutarch.pdf
-
 ---
+
+
