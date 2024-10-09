@@ -1,9 +1,9 @@
 ---
-#title: "Evolution of State Purpose / Final paper for summer school"
-#authors:
-#- admin
-#date: "2023-08-10"
-#doi: ""
+title: "Evolution of State Purpose / Final paper for summer school"
+authors:
+- admin
+date: "2023-08-10"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -59,4 +59,20 @@ url_pdf: publication/preprint/summer_school_paper.pdf
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
+
+title: "The Roman Republic through the Lens of Plutarch's Political Philosophy: Imbalance, Collapse, and Legacy of Order / in Chinese"
+authors:
+- admin
+date: "2023-08-20"
+# doi: ""
+
+#tags:
+#- Source Themes
+featured: false
+
+links:
+# - name: Custom Link
+#  url: http://www.jinshuyi.xyz
+url_pdf: publication/preprint/history_essay_plutarch.pdf
+
 ---
