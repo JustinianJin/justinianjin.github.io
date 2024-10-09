@@ -1,10 +1,10 @@
 ---
-title: Digital Humanities Project
+title: Quantitative History Analysis
 summary: An example of using the in-built project page.
 tags:
-  - Internet of Things
-  - Machine Learning
-date: '2021-10-01'
+  - Text Mining
+  - Large Language Model
+date: '2024-10-15'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
