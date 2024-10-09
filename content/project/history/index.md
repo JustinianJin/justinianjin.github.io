@@ -2,7 +2,8 @@
 title: Quantitative History Analysis
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Newspaper Analysis
+  - Large Language Model
 date: '2024-10-15'
 
 # Optional external URL for project (replaces project detail page).

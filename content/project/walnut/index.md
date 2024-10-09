@@ -2,7 +2,8 @@
 title: Digital Humanities Project
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Internet of Things
+  - Machine Learning
 date: '2021-10-01'
 
 # Optional external URL for project (replaces project detail page).
