@@ -83,7 +83,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: justinianjin@hotmail.com
+    mailto: justinianjin@hotmail.com
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen

@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Quantitative History Analysis
+summary: Media Polarization in Weimar Germany: A Comparative Data Analysis of Mainstream Newspapers during the Mid-Weimar Period
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Large Language Model
+date: '2024-10-15'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
