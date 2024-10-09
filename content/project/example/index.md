@@ -1,10 +1,9 @@
 ---
-title: Quantitative History Analysis
+title: Example Project
 summary: An example of using the in-built project page.
 tags:
-  - Text Mining
-  - Large Language Model
-date: '2024-10-15'
+  - Deep Learning
+date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
