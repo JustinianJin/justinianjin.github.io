@@ -4,7 +4,7 @@ summary: An example of using the in-built project page.
 tags:
   - Text Mining
   - Large Language Model
-date: '2024-10-1'
+date: '2024-09-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
