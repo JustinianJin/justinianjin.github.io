@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: Secondary School History Conference (2024) Call for Papers 
 
 event: Secondary School History Conference (2024)
 #event_url: https://example.org
@@ -18,7 +18,7 @@ abstract: The Secondary School History Conference (SSHC) is an academic exchange
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-08-30T09:00:00'
-date_end: '2024-08-30T17:00:00'
+#date_end: '2024-08-30T17:00:00'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
