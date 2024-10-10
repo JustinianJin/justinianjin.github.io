@@ -2,7 +2,7 @@
 title: "The Myth of Empire: A Study of Rome's Foundation and the Aeneid"
 
 event: History Club
-date: '2023-09-25' 
+date: '2023-09-25, 4:45-5:25 pm' 
 date_format: Jan 1, 2006
 #event_url: https://example.org
 
