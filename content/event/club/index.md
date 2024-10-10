@@ -3,16 +3,17 @@ title: "The Myth of Empire: A Study of Rome's Foundation and the Aeneid"
 
 event: History Club
 date: '2023-09-25' 
+date_format: Jan 1, 2006
 #event_url: https://example.org
 
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Classroom 420, Shanghai Pinghe School
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
 summary: Lecture Series of Pinghe School History Club.
 
