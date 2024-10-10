@@ -98,33 +98,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+        - #certificate_url: https://www.coursera.org
+          date_end: '2023-08-15'
+          date_start: '2023-07-10'
+          description: This summer course delved into the concept of the state, its historical development, legitimacy, and future prospects, and I am honored to have received an A grade.
+          icon: custom/UChicago
+          organization: UChicago Summer Session
+          organization_url: https://www.uchicago.edu/
+          title: The State: Its Origins, Justification (s), and Destiny
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - date_end: '2024-08-25'
+          date_start: '2024-06-25'
+          description: This AI course for high school students combines theoretical knowledge with hands-on practice, providing a comprehensive introduction to artificial intelligence concepts and applications.
+          icon: custom/sjtu
+          organization: Shanghai Jiao Tong University Xuesen Challenge Program
+          organization_url: https://www.sjtu.edu.cn
+          title: Introduction to Artificial Intelligence
+          url: '' 
     design:
       columns: '2'
   - block: collection
