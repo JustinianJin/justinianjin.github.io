@@ -1,5 +1,5 @@
 ---
-title: The Myth of Empire: A Study of Rome's Foundation and the Aeneid
+title: "The Myth of Empire: A Study of Rome's Foundation and the Aeneid"
 
 event: History Club
 date: '2023-09-25' 
