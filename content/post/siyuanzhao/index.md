@@ -1,6 +1,6 @@
 ---
 title: "Professor Siyuan Zhao [Popular Digital History in Chinese]"
-date: '2024-06-22'
+date: '2024-08-20'
 summary: "Character Interview Series"
 ---
 
