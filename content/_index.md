@@ -50,9 +50,9 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
+  - block: Award
     content:
-      title: Experience
+      title: Award
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Mathematics Contest in Modeling (2024), Promblem C
+          organization: Consortium for Mathematics and Its Applications (COMAP)
+          company_url: 'https://www.comap.com/'
+          company_logo: mcm
+          date_start: '2024-02-02'
+          date_end: '2024-02-06'
+          description: Honorable Mention
+        - title: John Locke Essay Competition (2023), History track 
+          organization: The John Locke Institute
+          company_url: 'https://www.johnlockeinstitute.com'
+          company_logo: john_lock 
+          date_start: '2023-04-01'
+          date_end: '2023-06-30'
+          description: Commendation Prize
+        - title: Shanghai Youth Science and Technology Innovation Competition (2020)
+          organization: Shanghai Association for Science and Technology 
+          company_url: 'https://www.shssp.org/'
+          company_logo: kechuang
+          date_start: '2020-01-04'
+          date_end: '2020-02-03'
+          description: First Prize 
     design:
       columns: '2'
   - block: accomplishments
