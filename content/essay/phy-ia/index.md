@@ -1,8 +1,9 @@
 ---
-title: "The Roman Republic through the Lens of Plutarch's Political Philosophy: Imbalance, Collapse, and Legacy of Order / in Chinese"
+
+title: "Investigating the impact of airflow speed on the cooling and evaporation effect of hot water under forced convection conditions"
 authors:
 - admin
-date: "2023-08-20"
+date: "2024-08-30"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +21,7 @@ date: "2023-08-20"
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: "This essay is an academic product of my participation in the History Club during 10th and 11th grade. It stems from our in-depth discussions about the ancient Roman political system. Through studying Plutarch's works, we explored the political structure of the Roman Republic, its challenges, and the factors that led to its collapse. This paper not only summarizes our collective insights but also reflects my personal thoughts on the connections between ancient political ideas and modern political systems."
+summary: "This IB Physics IA investigates how airflow speed affects the temperature drop of hot water under forced convection. By analyzing various speeds, the study reveals a clear relationship between increased airflow and enhanced cooling efficiency, utilizing principles of heat transfer and fluid dynamics to derive empirical relationships."
 
 #tags:
 #- Source Themes
@@ -60,6 +61,6 @@ links:
 #   Otherwise, set `slides: ""`.
 #slides: example
 
-url_pdf: essay/paper-2/history_essay_plutarch.pdf
+url_pdf: essay/phy-ia/Phy_IA.pdf
 
 ---

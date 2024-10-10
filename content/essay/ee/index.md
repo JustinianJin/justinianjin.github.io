@@ -1,8 +1,9 @@
 ---
-title: "The Roman Republic through the Lens of Plutarch's Political Philosophy: Imbalance, Collapse, and Legacy of Order / in Chinese"
+
+title: "Discuss the reasons for Hindenburg’s rise to power in 1925"
 authors:
 - admin
-date: "2023-08-20"
+date: "2024-09-10"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +21,7 @@ date: "2023-08-20"
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: "This essay is an academic product of my participation in the History Club during 10th and 11th grade. It stems from our in-depth discussions about the ancient Roman political system. Through studying Plutarch's works, we explored the political structure of the Roman Republic, its challenges, and the factors that led to its collapse. This paper not only summarizes our collective insights but also reflects my personal thoughts on the connections between ancient political ideas and modern political systems."
+summary: "This IB Extended Essay analyzes Paul von Hindenburg's rise to power in 1925, focusing on long-term public disillusionment with the Weimar Republic and political fragmentation. It highlights the effective propaganda by the Reichsblock and the disunity among leftist parties, which collectively enabled Hindenburg's narrow electoral victory."
 
 #tags:
 #- Source Themes
@@ -60,6 +61,5 @@ links:
 #   Otherwise, set `slides: ""`.
 #slides: example
 
-url_pdf: essay/paper-2/history_essay_plutarch.pdf
-
+url_pdf: essay/ee/EE_Final.pdf
 ---
