@@ -104,7 +104,6 @@ sections:
           description: "This summer course delved into the concept of the state, its historical development, legitimacy, and future prospects, and I am honored to have received an A grade."
           icon: UChicago
           organization: UChicago Summer Session
-          # organization_url: 'https://www.uchicago.edu/'
           title: The State: Its Origins, Justification (s), and Destiny
           url: ''
         - certificate_url: ''
@@ -113,7 +112,6 @@ sections:
           description: "This AI course for high school students combines theoretical knowledge with hands-on practice, providing a comprehensive introduction to artificial intelligence concepts and applications."
           icon: sjtu
           organization: Shanghai Jiao Tong University Xuesen Challenge Program
-          # organization_url: 'https://www.sjtu.edu.cn'
           title: Introduction to Artificial Intelligence
           url: '' 
     design:
