@@ -1,5 +1,5 @@
 ---
-title: "Media and democratisation [Popular Digital History in Chinese]"
+title: "Media and Democratisation [Popular Digital History in Chinese]"
 date: '2024-06-22'
 summary: "Media is widely recognized as a key player in the democratization process."
 ---
