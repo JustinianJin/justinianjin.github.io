@@ -98,11 +98,10 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - #certificate_url: https://www.coursera.org
-          date_end: '2023-08-15'
+        - date_end: '2023-08-15'
           date_start: '2023-07-10'
           description: This summer course delved into the concept of the state, its historical development, legitimacy, and future prospects, and I am honored to have received an A grade.
-          icon: UChicago
+          #icon: UChicago
           organization: UChicago Summer Session
           organization_url: https://www.uchicago.edu/
           title: The State: Its Origins, Justification (s), and Destiny
@@ -110,7 +109,7 @@ sections:
         - date_end: '2024-08-25'
           date_start: '2024-06-25'
           description: This AI course for high school students combines theoretical knowledge with hands-on practice, providing a comprehensive introduction to artificial intelligence concepts and applications.
-          icon: sjtu
+          #icon: sjtu
           organization: Shanghai Jiao Tong University Xuesen Challenge Program
           organization_url: https://www.sjtu.edu.cn
           title: Introduction to Artificial Intelligence
