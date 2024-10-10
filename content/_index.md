@@ -65,21 +65,21 @@ sections:
         - title: Mathematics Contest in Modeling (2024), Promblem C
           company: Consortium for Mathematics and Its Applications (COMAP)
           company_url: 'https://www.comap.com/'
-          company_logo: 'mcm.png'
+      #    company_logo: 'mcm.png'
           date_start: '2024-02-02'
           date_end: '2024-02-06'
           description: Honorable Mention
         - title: John Locke Essay Competition (2023), History track 
           company: The John Locke Institute
           company_url: 'https://www.johnlockeinstitute.com'
-          company_logo: 'john_lock.png' 
+      #    company_logo: 'john_lock.png' 
           date_start: '2023-04-01'
           date_end: '2023-06-30'
           description: Commendation Prize
         - title: Shanghai Youth Science and Technology Innovation Competition (2020)
           company: Shanghai Association for Science and Technology 
           company_url: 'https://www.shssp.org/'
-          company_logo: 'kechuang.png'
+          company_logo: kechuang
           date_start: '2020-01-04'
           date_end: '2020-02-03'
           description: First Prize 
