@@ -98,7 +98,8 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: '2023-08-15'
+        - certificate_url: '' 
+          date_end: '2023-08-15'
           date_start: '2023-07-10'
           description: "This summer course delved into the concept of the state, its historical development, legitimacy, and future prospects, and I am honored to have received an A grade."
           icon: UChicago
@@ -106,7 +107,8 @@ sections:
           organization_url: 'https://www.uchicago.edu/'
           title: The State: Its Origins, Justification (s), and Destiny
           url: ''
-        - date_end: '2024-08-25'
+        - certificate_url: ''
+          date_end: '2024-08-25'
           date_start: '2024-06-25'
           description: "This AI course for high school students combines theoretical knowledge with hands-on practice, providing a comprehensive introduction to artificial intelligence concepts and applications."
           icon: sjtu
