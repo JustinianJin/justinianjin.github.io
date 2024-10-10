@@ -1,7 +1,7 @@
 ---
 title: "What is Digital History? [Popular Digital History in Chinese]"
 date: '2024-03-27'
-summary: "Media is widely recognized as a key player in the democratization process."
+summary: "Digital history is an emerging field using technology to study the past. It offers new perspectives on historical data, enhances accessibility, but faces challenges in skill requirements and potential oversimplification of complex historical events."
 ---
 
 ## 什么是数字史学？
