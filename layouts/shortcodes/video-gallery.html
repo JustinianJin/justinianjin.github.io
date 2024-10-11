@@ -12,7 +12,7 @@
 </style>
 
 <div class="video-gallery">
-  {{ $files := readDir "/media/albums/demo" }}
+  {{ $files := readDir "/assets/media/albums/demo" }}
   {{ $files := resources.Match "media/albums/demo/*" }}
   {{ range $files }}
     {{ $file := .Name }}
