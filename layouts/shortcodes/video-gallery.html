@@ -12,18 +12,19 @@
 </style>
 
 <div class="video-gallery">
-  {{ $files := readDir "static/media/albums/demo" }}
+  {{ $files := readDir "/media/albums/demo" }}
+  {{ $files := resources.Match "media/albums/demo/*" }}
   {{ range $files }}
     {{ $file := .Name }}
     {{ $fileExt := path.Ext $file }}
     {{ if or (eq $fileExt ".jpg") (eq $fileExt ".jpeg") (eq $fileExt ".png") (eq $fileExt ".gif") }}
       <!-- 图片处理 (JPG, JPEG, PNG, GIF) -->
-      <img src="/media/albums/demo/{{ $file }}" alt="{{ $file }}" 
+      <img src="{{ .RelPermalink }}" alt="{{ $file }}" 
            {{ if eq $fileExt ".gif" }}autoplay loop muted playsinline{{ end }}>
     {{ else if eq $fileExt ".mp4" }}
       <!-- 视频处理 (MP4) -->
       <video autoplay loop muted playsinline>
-        <source src="/media/albums/demo/{{ $file }}" type="video/mp4">
+        <source src="{{ .RelPermalink }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     {{ end }}
