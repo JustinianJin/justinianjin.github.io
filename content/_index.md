@@ -177,7 +177,8 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+    #    {{< gallery album="demo" >}}
+         {{< video-gallery >}}
     design:
       columns: '1'
   #- block: collection

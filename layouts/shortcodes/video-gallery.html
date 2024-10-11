@@ -1,0 +1,31 @@
+<style>
+  .video-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 1rem;
+  }
+  .video-gallery img, .video-gallery video {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+</style>
+
+<div class="video-gallery">
+  {{ $files := readDir "static/uploads/gallery" }}
+  {{ range $files }}
+    {{ $file := .Name }}
+    {{ $fileExt := path.Ext $file }}
+    {{ if or (eq $fileExt ".jpg") (eq $fileExt ".jpeg") (eq $fileExt ".png") (eq $fileExt ".gif") }}
+      <!-- 图片处理 (JPG, JPEG, PNG, GIF) -->
+      <img src="/uploads/gallery/{{ $file }}" alt="{{ $file }}" 
+           {{ if eq $fileExt ".gif" }}autoplay loop muted playsinline{{ end }}>
+    {{ else if eq $fileExt ".mp4" }}
+      <!-- 视频处理 (MP4) -->
+      <video autoplay loop muted playsinline>
+        <source src="/uploads/gallery/{{ $file }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    {{ end }}
+  {{ end }}
+</div>
