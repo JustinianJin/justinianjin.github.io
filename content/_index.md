@@ -36,20 +36,46 @@ sections:
 #        gradient_end: '#1976d2'
 #        gradient_start: '#004ba0'
 #        text_color_light: true
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
+#  - block: about.biography
+#    id: about
+#    content:
+#      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
+#      username: admin
+#  - block: skills
+#    content:
+#      title: Skills
+#      text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+#      username: admin
+#    design:
+#      columns: '1'
+
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
     design:
+    # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
+  - block: collection
+    id: essays
+    content:
+      title: Essays
+      filters:
+        folders:
+          - essay
+    design:
+      columns: '2'
+      view: compact
+      
   - block: experience
     content:
       title: Awards
@@ -85,6 +111,7 @@ sections:
           description: First Prize 
     design:
       columns: '2'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -118,6 +145,7 @@ sections:
           url: '' 
     design:
       columns: '2'
+
   - block: collection
     id: posts
     content:
@@ -145,13 +173,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       # default_button_index: 0
       # Filter toolbar (optional).
@@ -166,12 +187,7 @@ sections:
       #    tag: Deep Learning
       #  - name: Other
       #    tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+
   - block: markdown
     content:
       title: Gallery
