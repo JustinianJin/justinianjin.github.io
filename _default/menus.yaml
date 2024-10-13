@@ -11,7 +11,7 @@ main:
     url: '#projects'
     weight: 20
   - name: Essays
-    url: essay/
+    url: '#essay'
     weight: 30
 
 # Link to a PDF of your resume/CV from the menu.
