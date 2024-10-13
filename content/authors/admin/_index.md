@@ -97,6 +97,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Shuyi (Justinian) Jin is a student at Shanghai Pinghe Bilingual School, set to pursue higher education in the U.S. in 2025. He stands out with his innovative approach to quantitative history and digital humanities, where he explores the intersection of history and data. He runs a popular WeChat account on digital humanities, bringing fresh ideas to academic discussions. At 15, shuyi invented a smart walnut device to assist Alzheimer's patients, reflecting his passion for technology and social impact. His intellectual curiosity and practical problem-solving skills have allowed him to make meaningful contributions, and he looks forward to applying these qualities as he pursues higher education at a top university.
+Shuyi (Justinian) Jin is a student at Shanghai Pinghe Bilingual School, set to pursue higher education in the U.S. in 2025. 
 
 {style="text-align: justify;"}

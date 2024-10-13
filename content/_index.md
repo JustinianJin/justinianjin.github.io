@@ -36,12 +36,12 @@ sections:
 #        gradient_end: '#1976d2'
 #        gradient_start: '#004ba0'
 #        text_color_light: true
-#  - block: about.biography
-#    id: about
-#    content:
-#      title: Biography
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-#      username: admin
+      username: admin
 #  - block: skills
 #    content:
 #      title: Skills
@@ -75,7 +75,7 @@ sections:
     design:
       columns: '2'
       view: compact
-      
+
   - block: experience
     content:
       title: Awards
