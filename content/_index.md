@@ -190,16 +190,7 @@ sections:
       #  - name: Other
       #    tag: Demo
 
-  - block: markdown
-    id: gallery
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< video-gallery >}}
-    #    {{< gallery album="demo" >}}    
-    design:
-      columns: '1'
+
   #- block: collection
   #  id: featured
   #  content:
@@ -235,6 +226,17 @@ sections:
     design:
       columns: '2'
       view: compact
+
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< video-gallery >}}
+    #    {{< gallery album="demo" >}}    
+    design:
+      columns: '1'
 
   # - block: tag_cloud
   #  content:
