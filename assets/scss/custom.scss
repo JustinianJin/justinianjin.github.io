@@ -1,0 +1,43 @@
+// 隐藏菜单栏
+.navbar {
+  display: none !important;
+}
+
+// 如果需要，调整内容区域的上边距
+#main-content {
+  padding-top: 0 !important;
+}
+
+// 减少各个部分之间的间距
+.home-section {
+  padding: 30px 0; // 减少上下内边距，原值可能更大
+}
+
+// 减少标题和内容之间的间距
+.section-heading {
+  margin-bottom: 1rem; // 减少底部外边距
+}
+
+// 减少卡片之间的间距（如果使用了卡片布局）
+.card-simple {
+  margin-bottom: 1rem; // 减少卡片之间的间距
+}
+
+// 减少段落之间的间距
+p {
+  margin-bottom: 0.5rem; // 减少段落之间的间距
+}
+
+// 减少列表项之间的间距
+ul, ol {
+  margin-bottom: 0.5rem; // 减少列表底部外边距
+  
+  li {
+    margin-bottom: 0.25rem; // 减少列表项之间的间距
+  }
+}
+
+// 减少小部件之间的间距
+.widget {
+  margin-bottom: 1.5rem; // 减少小部件之间的间距
+}
