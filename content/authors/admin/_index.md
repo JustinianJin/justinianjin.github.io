@@ -97,6 +97,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Shuyi (Justinian) Jin is a student at Shanghai Pinghe Bilingual School, set to pursue higher education in the U.S. in 2025. 
+Shuyi (Justinian) Jin is a student at Shanghai Pinghe Bilingual School, set to pursue higher education in the U.S. in 2025. My research interests include quantitative history and digital humanities.
 
 {style="text-align: justify;"}
