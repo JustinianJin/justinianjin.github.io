@@ -77,6 +77,7 @@ sections:
       view: compact
 
   - block: experience
+    id: awards
     content:
       title: Awards
       # Date format for experience
@@ -113,6 +114,7 @@ sections:
       columns: '2'
 
   - block: accomplishments
+    id: accomplishments 
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -189,6 +191,7 @@ sections:
       #    tag: Demo
 
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
