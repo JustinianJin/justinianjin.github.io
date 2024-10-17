@@ -31,7 +31,7 @@ url_video: ''
 # slides: example
 ---
 
-## Smart Walnut - An Early Prevention Device for Alzheimer's Disease**
+## Smart Walnut - An Early Prevention Device for Alzheimer's Disease
 
 ### Abstract
 
@@ -85,6 +85,8 @@ Scatter plot of acceleration vs. angular acceleration in the X, Y, and Z directi
 We created scatter plots of acceleration vs. angular acceleration for the X, Y, and Z directions. Taking the Z direction as an example, the x-axis represents acceleration, and the y-axis represents angular acceleration. Green dots indicate the walking state, while red dots represent the rotation state. It's challenging to distinguish these two states using a simple classifier. However, we observed that during walnut rotation, due to the presence of both rotation and revolution, there's a clear correlation between acceleration and angular acceleration in the Z direction.
 
 We designed a correlation coefficient to express the degree of association between acceleration and angular acceleration in the Z direction, and plotted it as a bar graph.
+
+![image.png](corr_trans.png)
 
 Compared to the previous graph, the walking and rotation states are easier to distinguish. Using the same three classification methods as before, we found that after applying this correlation transformation, the accuracy improved by about 20%.
 
