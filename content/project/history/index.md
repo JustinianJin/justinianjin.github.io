@@ -285,8 +285,6 @@ In conclusion, the period from 1923 to 1924 was characterized by a complex inter
 
 ![image.png](image7.png)
 
-![image.png](featured.png)
-
 The analysis results align with two fundamental media theories: Agenda Setting and Framing. The varying frequencies of event coverage across the three newspapers demonstrate Agenda Setting, showing how these publications influenced which issues their readers considered important. Meanwhile, the diverse attitudes towards events like Stresemann's chancellorship or the Dawes Plan implementation exemplify Framing, illustrating how each newspaper's ideological perspective shaped the presentation of information, potentially influencing readers' interpretations of these events.
 
 ## Limitations and Challenges
