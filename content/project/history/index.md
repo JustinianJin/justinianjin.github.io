@@ -114,7 +114,7 @@ By examining newspapers from this period, we can gain insight into how various s
 
 Our research project has amassed an extensive collection of front pages from three major daily newspapers: Vorwärts, Deutsche Allgemeine Zeitung, and Berliner Tageblatt. This comprehensive dataset spans from May 1, 1923, to December 31, 1924, a critical period in the Weimar Republic's history. The collection comprises 2,968 front pages in total, with 1,056 from Vorwärts, 891 from Deutsche Allgemeine Zeitung, and 1,021 from Berliner Tageblatt.
 
-The source of the original dataset is the newspaper information system of Berlin State Library (ZEFYS) and the Deutsche Digitale Bibliothek **(**German Digital Library)
+The source of the original dataset is the newspaper information system of Berlin State Library (ZEFYS) and the Deutsche Digitale Bibliothek (German Digital Library)
 
 | Newspaper | Source |
 | --- | --- |
