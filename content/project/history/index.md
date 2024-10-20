@@ -114,6 +114,14 @@ By examining newspapers from this period, we can gain insight into how various s
 
 Our research project has amassed an extensive collection of front pages from three major daily newspapers: Vorwärts, Deutsche Allgemeine Zeitung, and Berliner Tageblatt. This comprehensive dataset spans from May 1, 1923, to December 31, 1924, a critical period in the Weimar Republic's history. The collection comprises 2,968 front pages in total, with 1,056 from Vorwärts, 891 from Deutsche Allgemeine Zeitung, and 1,021 from Berliner Tageblatt.
 
+The source of the original dataset is the newspaper information system of Berlin State Library (ZEFYS) and the Deutsche Digitale Bibliothek **(**German Digital Library)
+
+| Newspaper | Source |
+| --- | --- |
+| Berliner Tageblatt | https://zefys.staatsbibliothek-berlin.de/list/title/zdb/27646518/ |
+| Deutsche Allgemeine Zeitung | https://zefys.staatsbibliothek-berlin.de/list/title/zdb/2807323X/ |
+| Vorwärts | https://www.deutsche-digitale-bibliothek.de/newspaper/2814128-3 |
+
 It is important to note that German newspapers of this era typically published multiple editions daily, including morning, afternoon, and evening issues. This practice provides a nuanced view of how news and opinions evolved throughout each day. The distribution of these front pages across the three newspapers and their various daily editions is illustrated in the figure below.
 
 ![image.png](image3.png)
